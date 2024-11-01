@@ -9,3 +9,6 @@ Proyectos para superar el curso del mismo nombre de freeCodeCamp.
     - Express   
 
 
+## Certificado obtenido    
+
+![Certificado](./images/certification.jpg)
